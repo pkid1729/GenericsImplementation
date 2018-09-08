@@ -1,0 +1,10 @@
+F:\ZPractice\GenericsImplementation\bin\Debug\netcoreapp2.0\GenericsImplementation.deps.json
+F:\ZPractice\GenericsImplementation\bin\Debug\netcoreapp2.0\GenericsImplementation.runtimeconfig.json
+F:\ZPractice\GenericsImplementation\bin\Debug\netcoreapp2.0\GenericsImplementation.runtimeconfig.dev.json
+F:\ZPractice\GenericsImplementation\bin\Debug\netcoreapp2.0\GenericsImplementation.dll
+F:\ZPractice\GenericsImplementation\bin\Debug\netcoreapp2.0\GenericsImplementation.pdb
+F:\ZPractice\GenericsImplementation\obj\Debug\netcoreapp2.0\GenericsImplementation.csproj.CoreCompileInputs.cache
+F:\ZPractice\GenericsImplementation\obj\Debug\netcoreapp2.0\GenericsImplementation.AssemblyInfoInputs.cache
+F:\ZPractice\GenericsImplementation\obj\Debug\netcoreapp2.0\GenericsImplementation.AssemblyInfo.cs
+F:\ZPractice\GenericsImplementation\obj\Debug\netcoreapp2.0\GenericsImplementation.dll
+F:\ZPractice\GenericsImplementation\obj\Debug\netcoreapp2.0\GenericsImplementation.pdb
